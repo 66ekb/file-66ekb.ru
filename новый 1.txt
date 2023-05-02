@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <html lang="ru">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="viewport" content="width=900">
-        <meta name="keywords" content="mesgames">
-        <meta name="author" content="The_Mr_Mes109">
-        <meta name="author:website" content="https://projectbw.ru/">
-        <meta name="template:version" content="v3.2.2">
-        <title>FILE</title>
-   
-    </head>
-<body>
-
 TRODAT 4642
 <p><img src="https://file.66ekb.ru/IMG/TRODAT_4642/4642_black.jpg"></p>
 <p><img src="https://file.66ekb.ru/IMG/TRODAT_4642/4642_new_bel.jpg"></p>
@@ -104,7 +88,3 @@ TRODAT 7011
 <p><img src="https://file.66ekb.ru/IMG/TRODAT_7011/7011_28ml_fio_new.jpg"></p>
 <p><img src="https://file.66ekb.ru/IMG/TRODAT_7011/7011_28ml_green_new.jpg"></p>
 <p><img src="https://file.66ekb.ru/IMG/TRODAT_7011/7011_28ml_red_new.jpg"></p>
-    
-</body>
-</html>  
-
